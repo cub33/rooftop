@@ -1,0 +1,1 @@
+note: hammingD.cpp and hammingD.hpp is deprecated, use hamming64.cpp and hamming64.hpp instead. Hamming64 will still be developed as the main hamming implementation, while hammingD will be kept as is.
